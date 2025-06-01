@@ -1,4 +1,4 @@
-###Project:- Battlefield 4 Server Info UI
+# Project:- Battlefield 4 Server Info UI
 ✅ Objective:
 ->This project replicates a section of the Battlefield 4 Server Info page, showing:
 
@@ -29,7 +29,7 @@ battlefield-server-info/
 │   └── data/
 │       └── serverData.json
 
-# work flow:-
+###work flow:-
 🖥️ 1. Frontend (React)
 -> in the client/ folder.
 
