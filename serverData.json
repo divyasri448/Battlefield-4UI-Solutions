@@ -1,0 +1,15 @@
+{
+  "players": "60/64",
+  "ping": "104ms",
+  "tickrate": "60 Hz",
+  "teams": [
+    {
+      "name": "US",
+      "players": ["Player1", "Player2", "Player3"]
+    },
+    {
+      "name": "RU",
+      "players": ["PlayerA", "PlayerB", "PlayerC"]
+    }
+  ]
+}
